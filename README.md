@@ -9,7 +9,6 @@
   
 
     ```
-    LAP11910-local@LAP11910 MINGW64 /d/Documents/go-ethereum-idirdev-implementation (master)
     $ ganache-cli
     Ganache CLI v6.12.2 (ganache-core: 2.13.2)
 
